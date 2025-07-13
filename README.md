@@ -42,6 +42,6 @@ python fake_news_checker.py
 
 ## 👩‍💻 Author
 
-Custom built by [Your Name]  
-📫 your.email@example.com  
-🔗 [GitHub Profile](https://github.com/your-username)
+Custom built by Anjali M N 
+📫 anjalimn2004@gmail.comcom  
+🔗 [GitHub Profile](https://github.com/Anjali-12-coder)
