@@ -1,0 +1,8 @@
+
+Dataset Source:
+Fake or Real News dataset publicly hosted by Data Science Dojo.
+
+CSV URL:
+https://raw.githubusercontent.com/datasciencedojo/datasets/master/fake_or_real_news.csv
+
+It is directly used in the script via pandas.
