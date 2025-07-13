@@ -43,5 +43,5 @@ python fake_news_checker.py
 ## 👩‍💻 Author
 
 Custom built by Anjali M N 
-📫 anjalimn2004@gmail.comcom  
+📫 anjalimn2004@gmail.com  
 🔗 [GitHub Profile](https://github.com/Anjali-12-coder)
